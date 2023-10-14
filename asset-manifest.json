@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/potfo-React/static/css/main.2105d20c.css",
+    "main.js": "/potfo-React/static/js/main.a96c954c.js",
+    "static/media/657340.jpg": "/potfo-React/static/media/657340.b6964ddae9fb1e23baa9.jpg",
+    "index.html": "/potfo-React/index.html",
+    "main.2105d20c.css.map": "/potfo-React/static/css/main.2105d20c.css.map",
+    "main.a96c954c.js.map": "/potfo-React/static/js/main.a96c954c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2105d20c.css",
+    "static/js/main.a96c954c.js"
+  ]
+}
